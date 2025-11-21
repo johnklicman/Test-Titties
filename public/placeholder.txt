@@ -1,0 +1,10 @@
+This folder is for static assets like:
+- Logos
+- Icons
+- Placeholder images
+- Favicons
+- robots.txt
+- sitemap.xml
+
+Images for content (services, projects, testimonials) should be uploaded through Sanity CMS.
+
